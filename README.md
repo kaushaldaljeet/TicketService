@@ -1,4 +1,4 @@
-# TicketServiceImplementation
+# TicketService
 Implementation of simple ticket service that temporarily finds and holds seats for a customer and confirms the reservation of the seats for customer.
 
 The application is developed using Java, Maven and IntelliJ IDE.
