@@ -24,6 +24,8 @@ Cd to the directory where the project is and enter the following commands:
 2. java -cp target/TicketService-1.0-SNAPSHOT.jar com.walmart.ticketservice.Driver 
 
    This command will execute the main method inside Driver.java file where I have written one start-to-end flow.
+   
+   ![DriverExecution](https://github.com/kaushaldaljeet/TicketService/blob/master/images/Main.png)
 
 
 
